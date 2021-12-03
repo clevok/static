@@ -1,16 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T07:33:27.522Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="gVbAw-eXqu68Z0hVt93V" version="15.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-03T08:26:04.406Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="GEY3EdE0STsTvxzGpFI2" version="15.8.9" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1188" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lRp_2n04T43cJ76o6G7G-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lRp_2n04T43cJ76o6G7G-1" target="lRp_2n04T43cJ76o6G7G-6">
+        <mxCell id="lRp_2n04T43cJ76o6G7G-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="lRp_2n04T43cJ76o6G7G-6">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="190" as="sourcePoint" />
             <mxPoint x="300" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lRp_2n04T43cJ76o6G7G-1" value="所有" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="40" y="90" width="200" height="200" as="geometry">
+          <mxGeometry x="40" y="136" width="220" height="200" as="geometry">
             <mxRectangle x="40" y="90" width="60" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -39,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lRp_2n04T43cJ76o6G7G-11" value="列表页面" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
-          <mxGeometry x="40" y="30" width="80" height="26" as="geometry" />
+          <mxGeometry x="40" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="lRp_2n04T43cJ76o6G7G-12" value="搜索页面" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
           <mxGeometry x="320" y="30" width="80" height="26" as="geometry" />
@@ -53,7 +54,7 @@
         <mxCell id="lRp_2n04T43cJ76o6G7G-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="360" as="sourcePoint" />
-            <mxPoint x="820" y="360" as="targetPoint" />
+            <mxPoint x="880" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lRp_2n04T43cJ76o6G7G-24" value="ID: 1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -75,7 +76,12 @@
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="lRp_2n04T43cJ76o6G7G-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="lRp_2n04T43cJ76o6G7G-4" target="lRp_2n04T43cJ76o6G7G-35">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="370" />
+              <mxPoint x="520" y="370" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="lRp_2n04T43cJ76o6G7G-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="lRp_2n04T43cJ76o6G7G-2" target="lRp_2n04T43cJ76o6G7G-24">
           <mxGeometry relative="1" as="geometry" />
@@ -114,6 +120,17 @@
         </mxCell>
         <mxCell id="lRp_2n04T43cJ76o6G7G-52" value="&lt;span&gt;列表页面中也显示勾选&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="266" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lRp_2n04T43cJ76o6G7G-54" value="最近新增" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="40" y="46" width="220" height="90" as="geometry">
+            <mxRectangle x="40" y="90" width="60" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lRp_2n04T43cJ76o6G7G-55" value="☑️&amp;nbsp; 小明，男，17岁" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="lRp_2n04T43cJ76o6G7G-54">
+          <mxGeometry x="10" y="40" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lRp_2n04T43cJ76o6G7G-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="lRp_2n04T43cJ76o6G7G-55" target="lRp_2n04T43cJ76o6G7G-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
