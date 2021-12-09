@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T08:10:40.493Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="qTcrwMakNi1ffZnyB6H4" version="15.9.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-12-09T08:39:25.253Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="9dl6yeXjfDieEpDVCGct" version="15.9.1" type="github" pages="4">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1181" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -577,7 +577,7 @@
         <mxCell id="FLNW8z_ZwvSHxtWV40Wi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2SZ_Zu6Oe3q5l-RoSuRD-1" source="FLNW8z_ZwvSHxtWV40Wi-1" target="V_-H92EQXcoANlhVQf9S-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FLNW8z_ZwvSHxtWV40Wi-12" value="__proto__" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FLNW8z_ZwvSHxtWV40Wi-3">
+        <mxCell id="FLNW8z_ZwvSHxtWV40Wi-12" value="__proto__ (创建实例的时候指定)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FLNW8z_ZwvSHxtWV40Wi-3">
           <mxGeometry x="-0.5111" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -630,8 +630,25 @@
             <mxPoint x="472.5" y="1806" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="g7NuXPFvAjtOdKy5au4S-5" value="new Persion()&#xa;(实例对象)(xiaoming)" style="swimlane;startSize=40;" vertex="1" parent="2SZ_Zu6Oe3q5l-RoSuRD-1">
+          <mxGeometry x="108" y="2100" width="200" height="150" as="geometry" />
+        </mxCell>
         <mxCell id="g7NuXPFvAjtOdKy5au4S-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2SZ_Zu6Oe3q5l-RoSuRD-1" source="g7NuXPFvAjtOdKy5au4S-3" target="g7NuXPFvAjtOdKy5au4S-0">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g7NuXPFvAjtOdKy5au4S-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2SZ_Zu6Oe3q5l-RoSuRD-1" target="g7NuXPFvAjtOdKy5au4S-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="2216" />
+              <mxPoint x="70" y="1780" />
+            </Array>
+            <mxPoint x="108" y="2216" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g7NuXPFvAjtOdKy5au4S-8" value="__proto__" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="g7NuXPFvAjtOdKy5au4S-7">
+          <mxGeometry x="-0.5247" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="g7NuXPFvAjtOdKy5au4S-9" value="new Persion()&#xa;(实例对象)(honghong)" style="swimlane;startSize=40;" vertex="1" parent="2SZ_Zu6Oe3q5l-RoSuRD-1">
           <mxGeometry x="350" y="2100" width="200" height="150" as="geometry" />
