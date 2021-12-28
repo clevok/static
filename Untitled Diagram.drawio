@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T03:07:10.669Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="GBw47OUtbBLHY8CLxc7E" version="16.0.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-12-28T03:13:43.067Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="6RHde5QbXRjUEYklUz6-" version="16.0.3" type="github" pages="5">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1396" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1409,7 +1409,7 @@
         <mxCell id="qRkV1iPQCdtQL5Oweo82-188" value="物理像素 8 x 12" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qRkV1iPQCdtQL5Oweo82-1">
           <mxGeometry x="510" y="460" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qRkV1iPQCdtQL5Oweo82-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;entryPerimeter=0;" edge="1" parent="qRkV1iPQCdtQL5Oweo82-1" source="qRkV1iPQCdtQL5Oweo82-189" target="qRkV1iPQCdtQL5Oweo82-199">
+        <mxCell id="qRkV1iPQCdtQL5Oweo82-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#FF33FF;entryPerimeter=0;" edge="1" parent="qRkV1iPQCdtQL5Oweo82-1" source="qRkV1iPQCdtQL5Oweo82-189" target="qRkV1iPQCdtQL5Oweo82-199">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="560" as="targetPoint" />
           </mxGeometry>
@@ -1417,7 +1417,7 @@
         <mxCell id="qRkV1iPQCdtQL5Oweo82-189" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="qRkV1iPQCdtQL5Oweo82-1">
           <mxGeometry x="18" y="86.25" width="92" height="203.75" as="geometry" />
         </mxCell>
-        <mxCell id="qRkV1iPQCdtQL5Oweo82-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;entryPerimeter=0;" edge="1" parent="qRkV1iPQCdtQL5Oweo82-1" source="qRkV1iPQCdtQL5Oweo82-190" target="qRkV1iPQCdtQL5Oweo82-199">
+        <mxCell id="qRkV1iPQCdtQL5Oweo82-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#FF33FF;entryPerimeter=0;" edge="1" parent="qRkV1iPQCdtQL5Oweo82-1" source="qRkV1iPQCdtQL5Oweo82-190" target="qRkV1iPQCdtQL5Oweo82-199">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="560" as="targetPoint" />
           </mxGeometry>
@@ -1425,7 +1425,7 @@
         <mxCell id="qRkV1iPQCdtQL5Oweo82-190" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="qRkV1iPQCdtQL5Oweo82-1">
           <mxGeometry x="238" y="86.25" width="42" height="103.75" as="geometry" />
         </mxCell>
-        <mxCell id="qRkV1iPQCdtQL5Oweo82-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qRkV1iPQCdtQL5Oweo82-1" source="qRkV1iPQCdtQL5Oweo82-191" target="qRkV1iPQCdtQL5Oweo82-199">
+        <mxCell id="qRkV1iPQCdtQL5Oweo82-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#FF33FF;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qRkV1iPQCdtQL5Oweo82-1" source="qRkV1iPQCdtQL5Oweo82-191" target="qRkV1iPQCdtQL5Oweo82-199">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="560" as="targetPoint" />
           </mxGeometry>
@@ -1433,19 +1433,10 @@
         <mxCell id="qRkV1iPQCdtQL5Oweo82-191" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="qRkV1iPQCdtQL5Oweo82-1">
           <mxGeometry x="458" y="85.5" width="22" height="54.5" as="geometry" />
         </mxCell>
-        <mxCell id="qRkV1iPQCdtQL5Oweo82-192" value="一倍" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="qRkV1iPQCdtQL5Oweo82-1">
-          <mxGeometry x="80" y="20" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="qRkV1iPQCdtQL5Oweo82-193" value="二倍" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="qRkV1iPQCdtQL5Oweo82-1">
-          <mxGeometry x="300" y="20" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="qRkV1iPQCdtQL5Oweo82-194" value="三倍" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="qRkV1iPQCdtQL5Oweo82-1">
-          <mxGeometry x="530" y="20" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="qRkV1iPQCdtQL5Oweo82-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="qRkV1iPQCdtQL5Oweo82-1" source="qRkV1iPQCdtQL5Oweo82-199" target="qRkV1iPQCdtQL5Oweo82-201">
+        <mxCell id="qRkV1iPQCdtQL5Oweo82-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#FF33FF;" edge="1" parent="qRkV1iPQCdtQL5Oweo82-1" source="qRkV1iPQCdtQL5Oweo82-199" target="qRkV1iPQCdtQL5Oweo82-201">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qRkV1iPQCdtQL5Oweo82-199" value="&lt;span&gt;&amp;nbsp;长 1像素，高2像素的图片，在高分辨率的屏幕下就会特别的小&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="qRkV1iPQCdtQL5Oweo82-1">
+        <mxCell id="qRkV1iPQCdtQL5Oweo82-199" value="&lt;span&gt;&amp;nbsp;长 1像素，高2像素的图片，在高分辨率的屏幕下就会特别的小&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#FF33FF;" vertex="1" parent="qRkV1iPQCdtQL5Oweo82-1">
           <mxGeometry x="260" y="530" width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="qRkV1iPQCdtQL5Oweo82-201" value="为了解决这个问题，提出了逻辑像素这个概念，Web中的实现就是这个抽象概念的具体实现 PX, 还有 Android(dp) / iOS(pt)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qRkV1iPQCdtQL5Oweo82-1">
@@ -1457,7 +1448,7 @@
         <mxCell id="qRkV1iPQCdtQL5Oweo82-249" value="2 x 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="qRkV1iPQCdtQL5Oweo82-248">
           <mxGeometry x="61" y="30" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qRkV1iPQCdtQL5Oweo82-252" value="定义 逻辑像素 是 2 x 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="qRkV1iPQCdtQL5Oweo82-1">
+        <mxCell id="qRkV1iPQCdtQL5Oweo82-252" value="定义 逻辑像素 是 2 x 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="qRkV1iPQCdtQL5Oweo82-1">
           <mxGeometry x="295" y="790" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qRkV1iPQCdtQL5Oweo82-235" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="qRkV1iPQCdtQL5Oweo82-1">
@@ -1696,6 +1687,9 @@
           <mxGeometry x="91" width="94" height="101" as="geometry">
             <mxRectangle width="94" height="101" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qRkV1iPQCdtQL5Oweo82-277" value="看到了吗，其实逻辑像素，就像栅格系统一样，重新定义 长有多少块，高有多少块&lt;br&gt;&lt;br&gt;当我们使用px的时候，就不用管实际像素啦，就能实现类似百分百一样的效果，&lt;br&gt;&lt;br&gt;所以才有了几倍图的概念，就是因为 1像素乘2像素的图片在高分辨率的情况下被放大了" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#000000;strokeWidth=1;fillColor=none;" vertex="1" parent="qRkV1iPQCdtQL5Oweo82-1">
+          <mxGeometry x="550" y="940" width="154" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
