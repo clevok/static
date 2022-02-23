@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T06:44:13.959Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="VwUeK8sBu98MIflYUzIe" version="16.5.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-23T06:46:37.957Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="M6hzoVo2xVEY0cGY8H6L" version="16.5.6" type="github" pages="4">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="领域模型">
     <mxGraphModel dx="1069" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1380,7 +1380,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ffrJan7Wq1F0UclOW_qV" name="小程序-h5通讯架构设计">
-    <mxGraphModel dx="1069" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1896" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KR43jyvshfbPlA_CGMY7-0" />
         <mxCell id="KR43jyvshfbPlA_CGMY7-1" parent="KR43jyvshfbPlA_CGMY7-0" />
@@ -1431,6 +1431,15 @@
             <mxPoint x="490" y="650" as="sourcePoint" />
             <mxPoint x="410" y="650" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jL4cM6y24j_keWKzwVSw-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="KR43jyvshfbPlA_CGMY7-1" source="jL4cM6y24j_keWKzwVSw-37" target="jL4cM6y24j_keWKzwVSw-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jL4cM6y24j_keWKzwVSw-37" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="KR43jyvshfbPlA_CGMY7-1">
+          <mxGeometry x="-20" y="180" width="40" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="jL4cM6y24j_keWKzwVSw-38" value="初始化" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="KR43jyvshfbPlA_CGMY7-1">
+          <mxGeometry x="-110" y="290" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
