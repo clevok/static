@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T06:44:01.345Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Lg8vwXKaeJvLAD6i8dwb" version="16.5.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-23T06:44:13.959Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="VwUeK8sBu98MIflYUzIe" version="16.5.6" type="github" pages="4">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="领域模型">
     <mxGraphModel dx="1069" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1396,7 +1396,7 @@
         <mxCell id="jL4cM6y24j_keWKzwVSw-5" value="微信小程序" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="KR43jyvshfbPlA_CGMY7-1">
           <mxGeometry x="40" y="160" width="200" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="jL4cM6y24j_keWKzwVSw-15" value="wx.showModal&lt;br&gt;wx.showLoading" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="jL4cM6y24j_keWKzwVSw-5">
+        <mxCell id="jL4cM6y24j_keWKzwVSw-15" value="wx.showModal&lt;br&gt;wx.showLoading&lt;br&gt;..." style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="jL4cM6y24j_keWKzwVSw-5">
           <mxGeometry x="10" y="365" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jL4cM6y24j_keWKzwVSw-6" value="云端(socket)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="KR43jyvshfbPlA_CGMY7-1">
