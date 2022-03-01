@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T12:54:58.798Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Airh96IuV-1A5RvbB_YU" version="16.5.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-01T06:13:23.913Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="StxnZzSzo8dx_1wGFlFh" version="16.6.4" type="github" pages="4">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="领域模型">
-    <mxGraphModel dx="1069" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="911" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1380,77 +1380,80 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ffrJan7Wq1F0UclOW_qV" name="小程序-h5通讯架构设计">
-    <mxGraphModel dx="2085" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KR43jyvshfbPlA_CGMY7-0" />
         <mxCell id="KR43jyvshfbPlA_CGMY7-1" parent="KR43jyvshfbPlA_CGMY7-0" />
-        <mxCell id="jL4cM6y24j_keWKzwVSw-4" value="webview加载的h5" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="KR43jyvshfbPlA_CGMY7-1">
-          <mxGeometry x="630" y="160" width="240" height="480" as="geometry" />
+        <mxCell id="jL4cM6y24j_keWKzwVSw-4" value="webview加载的h5" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="KR43jyvshfbPlA_CGMY7-1" vertex="1">
+          <mxGeometry x="587" y="160" width="240" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="jL4cM6y24j_keWKzwVSw-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="jL4cM6y24j_keWKzwVSw-4">
-          <mxGeometry x="115" y="195" width="10" height="80" as="geometry" />
+        <mxCell id="jL4cM6y24j_keWKzwVSw-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="jL4cM6y24j_keWKzwVSw-4" vertex="1">
+          <mxGeometry x="115" y="195" width="10" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="jL4cM6y24j_keWKzwVSw-42" value="&lt;span&gt;h5调用 wxSocket.showModal&lt;/span&gt;" style="html=1;" vertex="1" parent="jL4cM6y24j_keWKzwVSw-4">
-          <mxGeometry x="70" y="365" width="170" height="112" as="geometry" />
+        <mxCell id="jL4cM6y24j_keWKzwVSw-42" value="&lt;span&gt;h5调用 wxSocket.showModal&lt;/span&gt;" style="html=1;" parent="jL4cM6y24j_keWKzwVSw-4" vertex="1">
+          <mxGeometry x="40" y="365" width="170" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="jL4cM6y24j_keWKzwVSw-5" value="微信小程序" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="KR43jyvshfbPlA_CGMY7-1">
+        <mxCell id="jL4cM6y24j_keWKzwVSw-5" value="微信小程序" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="KR43jyvshfbPlA_CGMY7-1" vertex="1">
           <mxGeometry x="40" y="160" width="200" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="jL4cM6y24j_keWKzwVSw-15" value="wx.showModal&lt;br&gt;wx.showLoading&lt;br&gt;..." style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="jL4cM6y24j_keWKzwVSw-5">
+        <mxCell id="jL4cM6y24j_keWKzwVSw-15" value="wx.showModal&lt;br&gt;wx.showLoading&lt;br&gt;..." style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" parent="jL4cM6y24j_keWKzwVSw-5" vertex="1">
           <mxGeometry x="10" y="365" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="jL4cM6y24j_keWKzwVSw-6" value="云端(socket)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="KR43jyvshfbPlA_CGMY7-1">
+        <mxCell id="jL4cM6y24j_keWKzwVSw-6" value="云端(socket)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="KR43jyvshfbPlA_CGMY7-1" vertex="1">
           <mxGeometry x="400" y="160" width="100" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="jL4cM6y24j_keWKzwVSw-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="jL4cM6y24j_keWKzwVSw-6">
+        <mxCell id="jL4cM6y24j_keWKzwVSw-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="jL4cM6y24j_keWKzwVSw-6" vertex="1">
           <mxGeometry x="40" y="70" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jL4cM6y24j_keWKzwVSw-8" value="小程序加载时候创建房间" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="jL4cM6y24j_keWKzwVSw-7" parent="KR43jyvshfbPlA_CGMY7-1" source="jL4cM6y24j_keWKzwVSw-5">
+        <mxCell id="jL4cM6y24j_keWKzwVSw-8" value="小程序加载时候建立连接" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="KR43jyvshfbPlA_CGMY7-1" source="jL4cM6y24j_keWKzwVSw-5" target="jL4cM6y24j_keWKzwVSw-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jL4cM6y24j_keWKzwVSw-9" value="返回房间号 A" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="jL4cM6y24j_keWKzwVSw-7" parent="KR43jyvshfbPlA_CGMY7-1" target="jL4cM6y24j_keWKzwVSw-5">
+        <mxCell id="jL4cM6y24j_keWKzwVSw-9" value="返回socketId（A）" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" parent="KR43jyvshfbPlA_CGMY7-1" source="jL4cM6y24j_keWKzwVSw-7" target="jL4cM6y24j_keWKzwVSw-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="306" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jL4cM6y24j_keWKzwVSw-11" value="加载 h5, 通过url 传递房间号 A" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;" edge="1" target="jL4cM6y24j_keWKzwVSw-10" parent="KR43jyvshfbPlA_CGMY7-1" source="jL4cM6y24j_keWKzwVSw-5">
+        <mxCell id="jL4cM6y24j_keWKzwVSw-11" value="加载 h5, 通过url 传递socketId (A)" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;" parent="KR43jyvshfbPlA_CGMY7-1" source="jL4cM6y24j_keWKzwVSw-5" target="jL4cM6y24j_keWKzwVSw-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="380" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jL4cM6y24j_keWKzwVSw-31" value="h5将执行的命令和参数传递给云端&lt;br&gt;云端再传输给打开的微信小程序" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="KR43jyvshfbPlA_CGMY7-1" source="jL4cM6y24j_keWKzwVSw-42">
+        <mxCell id="jL4cM6y24j_keWKzwVSw-31" value="向指定A传递执行消息" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="KR43jyvshfbPlA_CGMY7-1" source="jL4cM6y24j_keWKzwVSw-42" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="650.3425993521764" y="522.8768592873939" as="sourcePoint" />
             <mxPoint x="450" y="525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jL4cM6y24j_keWKzwVSw-32" value="微信小程序执行完毕后，再通知回云端&lt;br&gt;云端再将结果返还给h5" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0;exitY=0;exitDx=110;exitDy=0;exitPerimeter=0;" edge="1" parent="KR43jyvshfbPlA_CGMY7-1" source="jL4cM6y24j_keWKzwVSw-15">
+        <mxCell id="jL4cM6y24j_keWKzwVSw-32" value="执行后，再次发出消息，向B 发送消息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0;exitY=0;exitDx=110;exitDy=0;exitPerimeter=0;" parent="KR43jyvshfbPlA_CGMY7-1" source="jL4cM6y24j_keWKzwVSw-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="650" as="sourcePoint" />
             <mxPoint x="450" y="635" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jL4cM6y24j_keWKzwVSw-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="KR43jyvshfbPlA_CGMY7-1" source="jL4cM6y24j_keWKzwVSw-37" target="jL4cM6y24j_keWKzwVSw-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jL4cM6y24j_keWKzwVSw-37" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="KR43jyvshfbPlA_CGMY7-1">
-          <mxGeometry x="-20" y="180" width="40" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="jL4cM6y24j_keWKzwVSw-38" value="初始化,创建房间是为了避免自己的h5发出的消息被其他用户接受到" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="KR43jyvshfbPlA_CGMY7-1">
-          <mxGeometry x="-130" y="190" width="70" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="jL4cM6y24j_keWKzwVSw-40" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KR43jyvshfbPlA_CGMY7-1" source="jL4cM6y24j_keWKzwVSw-6" target="jL4cM6y24j_keWKzwVSw-15">
+        <mxCell id="jL4cM6y24j_keWKzwVSw-40" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="KR43jyvshfbPlA_CGMY7-1" source="jL4cM6y24j_keWKzwVSw-6" target="jL4cM6y24j_keWKzwVSw-15" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="450" y="520" as="sourcePoint" />
             <mxPoint x="510" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jL4cM6y24j_keWKzwVSw-41" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0.48;exitY=0.994;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="KR43jyvshfbPlA_CGMY7-1" source="jL4cM6y24j_keWKzwVSw-6" target="jL4cM6y24j_keWKzwVSw-42">
+        <mxCell id="jL4cM6y24j_keWKzwVSw-41" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0.48;exitY=0.994;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="KR43jyvshfbPlA_CGMY7-1" source="jL4cM6y24j_keWKzwVSw-6" target="jL4cM6y24j_keWKzwVSw-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="660" as="sourcePoint" />
             <mxPoint x="650.3425993521764" y="632.1231407126061" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IRqqebFDJr4c4chku7fh-0" value="webview加载后建立连接" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=-0.1;exitY=0.714;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="KR43jyvshfbPlA_CGMY7-1" source="jL4cM6y24j_keWKzwVSw-10" target="jL4cM6y24j_keWKzwVSw-6">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="850" y="420" as="sourcePoint" />
+            <mxPoint x="930" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IRqqebFDJr4c4chku7fh-1" value="返回socketId (B)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KR43jyvshfbPlA_CGMY7-1" source="jL4cM6y24j_keWKzwVSw-6" target="jL4cM6y24j_keWKzwVSw-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="460" as="sourcePoint" />
+            <mxPoint x="540" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
